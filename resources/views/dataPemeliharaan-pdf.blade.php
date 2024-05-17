@@ -47,7 +47,7 @@
   // Mendapatkan nama bulan dari array
   var monthName = monthNames[monthIndex];
 
-  // Menampilkan tanggal, bulan, dan tahun
+  // Menampilkan tgl, bln, dan tahun
   document.write("Tahun " + year );
 </script>
 </h3>
